@@ -1,0 +1,31 @@
+# Maven build output
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+nohup.out
+server.log
+*.tmp
+dependency-reduced-pom.xml
+
+.tools/
