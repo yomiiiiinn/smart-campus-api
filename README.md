@@ -30,7 +30,7 @@ Every error path goes through a dedicated ExceptionMapper so the client never se
 Clone the repo and change into the project folder:
 
 ```bash
-git clone https://github.com/<your-username>/smart-campus-api.git
+git clone https://github.com/yomiiiiinn/smart-campus-api.git
 cd smart-campus-api
 ```
 
