@@ -276,7 +276,7 @@ That's why the catch-all `GenericExceptionMapper` in this project logs the full 
 
 ## 8. Video Demonstration
 
-The 10-minute Postman walkthrough is available at: `https://youtu.be/4S5WNYTaoxo?si=NWLePV7r88ryR3kf`
+[![Watch the video](https://img.youtube.com/vi/4S5WNYTaoxo/0.jpg)](https://youtu.be/4S5WNYTaoxo?si=NWLePV7r88ryR3kf)
 
 ---
 
